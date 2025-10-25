@@ -6,12 +6,13 @@ import Welcome from './pages/Welcome';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <h4>Hello</h4>
+      {/* <BrowserRouter>
       <Routes>
         <Route path='/' element={<Setup/>}/>
         <Route path='/welcome' element={<Welcome/>}/>
       </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </div>
   );
 }
