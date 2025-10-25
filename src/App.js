@@ -1,7 +1,7 @@
 import './App.css';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Setup from './pages/Setup';
-import Welcome from './pages/Welcome';
+// import { BrowserRouter, Route, Routes } from 'react-router-dom';
+// import Setup from './pages/Setup';
+// import Welcome from './pages/Welcome';
 
 function App() {
   return (
